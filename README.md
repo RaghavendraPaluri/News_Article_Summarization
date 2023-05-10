@@ -15,4 +15,4 @@
   News article summarization can be used to build a variety of real-world applications, such as personalized news recommendation systems, news aggregation platforms, and mobile news applications. By incorporating news article summarization into your application, you can provide users with a more efficient and informative news consumption experience.
 
 ## Dataset Link:
-(https://drive.google.com/drive/folders/1UZFFIJ_KkiTueCy-z-2WlJSTZAWkbLoC?usp=share_link)
+https://drive.google.com/drive/folders/1UZFFIJ_KkiTueCy-z-2WlJSTZAWkbLoC?usp=share_link
