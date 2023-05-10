@@ -13,3 +13,6 @@
   working on developing new models for news article summarization, you can use existing models as a baseline and compare their performance against your own. This can help you identify areas where your model needs improvement and inform the design of new models.
   
   News article summarization can be used to build a variety of real-world applications, such as personalized news recommendation systems, news aggregation platforms, and mobile news applications. By incorporating news article summarization into your application, you can provide users with a more efficient and informative news consumption experience.
+
+## Dataset Link:
+(https://drive.google.com/drive/folders/1UZFFIJ_KkiTueCy-z-2WlJSTZAWkbLoC?usp=share_link)
